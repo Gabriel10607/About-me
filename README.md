@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Gabriel Alves (@Gabriel10607) and i'm an apprentice;
+- 🌱 I’m currently learning Python🐍;
+- 📫 How to reach me:gabrielalves10607@gmail.com;
+- 😄 Pronouns: he/him.
